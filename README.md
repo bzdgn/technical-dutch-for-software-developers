@@ -7,10 +7,9 @@ Please check this repository periodically because this repo is going to be evolv
 
 TOC
 ---
-- [00 Introduction](#00-introduction)<br/>
-- [01 Articles Het or De](#01-definitive-articles-het-or-de)<br/>
-- [02 Personal Pronoun](#02-personal-pronoun)<br/>
-- [03 The Verb and Verb Conjugation](#03-the-verb-and-verb-conjugation)<br/>
+- [0 Introduction](#00-introduction)<br/>
+- [1 Adjectives And Adverbs](#1-adjectives-and-adverbs)<br/>
+
 
 00 Introduction
 ---------------
