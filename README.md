@@ -9,6 +9,8 @@ TOC
 ---
 - [0 Introduction](#00-introduction)<br/>
 - [1 Adjectives And Adverbs](#1-adjectives-and-adverbs)<br/>
+- [2 Nouns](#2-nouns)<br/>
+- [3 Verbs](#3-verbs)<br/>
 
 
 00 Introduction
@@ -33,6 +35,28 @@ I'll update this repository as I progress so please check this repository period
 | --- | --- |
 | placeholder | placeholder |
 | placeholder | placeholder |
+
+
+[Go back to TOC](#toc)
+
+
+ 2 Nouns
+--------
+| article | dutch meaning | english meaning |
+| --- | --- | --- |
+| placeholder | placeholder | placeholder |
+| placeholder | placeholder | placeholder |
+
+
+[Go back to TOC](#toc)
+
+
+ 3 Verbs
+--------
+| dutch infinitive | present perfect | past singular | past plural | english meaning |
+| --- | --- | --- | --- | --- |
+placeholder | ben placehlder | placeholder | placeholder | placeholder |
+placeholder | heb placehlder | placeholder | placeholder | placeholder |
 
 
 [Go back to TOC](#toc)
