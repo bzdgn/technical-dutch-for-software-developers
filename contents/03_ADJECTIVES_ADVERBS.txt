@@ -1,86 +1,86 @@
 Adjectives & Adverbs
 ====================
 
-aantoonbaar		demonstrably (acikca, görülebilir sekilde)
+aantoonbaar     demonstrably (acikca, görülebilir sekilde)
 absoluut        absolute
 achteraf        afterwards
-afgelopen		last, past, finished
+afgelopen       last, past, finished
 allemaal        everybody (dag allemaal)
-alvast			already
-apart			separate
-automatisch		automatic
-bekend			known
+alvast          already
+apart           separate
+automatisch     automatic
+bekend          known
 belangrijk      important
-benaderbaar		approachable
+benaderbaar     approachable
 bepaalde        particular
-beschikbaar		available
-bezig			busy
-bijbehorend		associated, matching, corresponding
+beschikbaar     available
+bezig           busy
+bijbehorend     associated, matching, corresponding
 bijzonder       special / particular
 bruikbaar       usable
 daardoor        thereby (there through)
-daarna			afterwards
+daarna          afterwards
 downloadbaar    downloadable
 duidelijk       obvious
 eenmalig        one-off (bir kereye mahsus, tekil)
-echter			however, though
-ervoor			before
+echter          however, though
+ervoor          before
 eventueel       possibly, occasionally
-geldig			valid
+geldig          valid
 gelukkig        happy, happily, fortunately, luckily
 gevaarlijk      dangerous
 gevoelig        sensitive
-grotendeels		for the most part, largely
-handmatig		manually
-hierbij			hereby
-hierin			herein
+grotendeels     for the most part, largely
+handmatig       manually
+hierbij         hereby
+hierin          herein
 hierdoor        because of this
-hieruit			from here
+hieruit         from here
 initieel        initially
 inmiddels       in the meantime, meanwhile
 juist           right
 leeg            empty
-los				loose
-middels			through
+los             loose
+middels         through
 mogelijk        possible
 moeiljik        difficult
-momenteel		at the moment, currently
-nader			further
+momenteel       at the moment, currently
+nader           further
 namelijk        namely
 onafhankelijk   independent
-onbruikbaar		unusable
+onbruikbaar     unusable
 onderaan        at the bottom of
 ongeldig        invalid
 ongeveer        about, approximately, roughly
 overigens       besides, moreover
-per ongeluk		by accident, accidentally
-persoonlijk		personal
-qua				qua, regarding, in terms of, concerning
-schoon			clean
+per ongeluk     by accident, accidentally
+persoonlijk     personal
+qua             qua, regarding, in terms of, concerning
+schoon          clean
 speciaal        special
 specifiek       specific
-succesvol		successful
-stabiel			stable
+succesvol       successful
+stabiel         stable
 tijdelijk       temporarily
 toegankelijk    accessible
-totaal			totally
+totaal          totally
 uiteindelijk    in the end, eventually, finally
 uiteraard       of course (natuurlijk gibi)
 verdacht        suspicious
-verder			further
+verder          further
 vergelijkbaar   comparable
-veilig			safe
-vervolgens		thereafter, subsequently
-vet				fat
-voldoende		sufficient
+veilig          safe
+vervolgens      thereafter, subsequently
+vet             fat
+voldoende       sufficient
 volledig        fully, complete
-vooral			especially
+vooral          especially
 voorheen        before
 voorlopig       at the time being, currently, for the moment
 vrij            free
 vrijheid        freedom
 vuil            dirty
 vies            dirty
-waarmee			by which
-wegens			due to, because of 
-zover			so far
+waarmee         by which
+wegens          due to, because of 
+zover           so far
