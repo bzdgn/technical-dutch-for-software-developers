@@ -11,10 +11,11 @@ TOC
 - [1 Adjectives And Adverbs](#1-adjectives-and-adverbs)<br/>
 - [2 Nouns](#2-nouns)<br/>
 - [3 Verbs](#3-verbs)<br/>
+- [4 Example Phrases](#4-example-phrases)<br/>
 
 
-00 Introduction
----------------
+0 Introduction
+--------------
 
 This repository consist of several parts such as vocabulary, adjectives/adverbs, verbs and examples.
 
@@ -31,6 +32,7 @@ I'll update this repository as I progress so please check this repository period
 
  1 Adjectives And Adverbs
 -------------------------
+
 | dutch meaning | english meaning |
 | --- | --- |
 | placeholder | placeholder |
@@ -42,6 +44,7 @@ I'll update this repository as I progress so please check this repository period
 
  2 Nouns
 --------
+
 | article | dutch meaning | english meaning |
 | --- | --- | --- |
 | placeholder | placeholder | placeholder |
@@ -53,10 +56,21 @@ I'll update this repository as I progress so please check this repository period
 
  3 Verbs
 --------
+
 | dutch infinitive | present perfect | past singular | past plural | english meaning |
 | --- | --- | --- | --- | --- |
 placeholder | ben placehlder | placeholder | placeholder | placeholder |
 placeholder | heb placehlder | placeholder | placeholder | placeholder |
+
+
+[Go back to TOC](#toc)
+
+
+4 Example Phrases
+-----------------
+
+Placeholder Placeholder
+Placeholder Placeholder
 
 
 [Go back to TOC](#toc)
