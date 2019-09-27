@@ -69,8 +69,8 @@ placeholder | heb placehlder | placeholder | placeholder | placeholder |
 4 Example Phrases
 -----------------
 
-Placeholder Placeholder
-Placeholder Placeholder
+Placeholder Placeholder<br/>
+Placeholder Placeholder<br/>
 
 
 [Go back to TOC](#toc)
