@@ -128,8 +128,117 @@ zover           | so far                                       |
 
 | article | dutch meaning | english meaning |
 | --- | --- | --- |
-| placeholder | placeholder | placeholder |
-| placeholder | placeholder | placeholder |
+het | aanbod              | offer
+de  | aanleiding          | reason, cause, inducement (motivasyon)
+de  | aanvraag            | request
+de  | actie               | action
+de  | afbeelding          | image
+de  | afdeling            | department
+het | afscheid            | goodbye, farewell
+de  | applicatie          | application
+het | beheer              | management
+de  | beheerder           | administrator
+de  | bereider            | preparer
+het | bericht             | message
+het | bestaan             | existence
+het | bestand             | file (computer file)
+de  | bestelling          | order
+de  | bevinding           | finding
+het | bord                | plate / board
+de  | bron                | source
+de  | configuratie        | configuration
+het | deel                | section
+de  | definitie           | definition
+het | dossier             | file (dose, email, kagit olarak)
+het | doel                | goal / target
+de  | doorlooptijd        | lead time (the time between the initiation and completion of a production process.)
+de  | enige               | the only
+de  | entiteit            | entity
+het | formulier           | form
+de  | gebruiker           | user
+het | geheugen            | memory
+het | geluk               | luck
+de  | gids                | guide
+de  | grootte             | size
+de  | indeling            | layout, grouping
+de  | ingang              | entrance
+de  | initiële            | initial
+de  | installatie         | installation
+de  | instantie           | instance
+de  | invoer              | input
+het | inzicht             | insight
+de  | jeugd               | youth
+de  | kans                | chance
+de  | knop                | button
+de  | kwestie             | issue
+de  | laag                | layer
+de  | lijst               | list
+de  | macht               | power
+de  | map                 | folder
+de  | massa               | mass
+de  | mate                | extent, degree
+de  | migratie            | migration
+de  | mogelijkheid        | possibility
+het | niveau              | level
+de  | nieuwkomer          | new comer
+de  | omgeving            | environment
+de  | omschrijving        | description
+het | onderdeel           | part / component part
+het | onderscheid         | distinction
+de  | ondersteuning       | support
+het | ongeluk             | accident
+het | oordeel             | judgment
+de  | oorzaak             | cause
+de  | oplossing           | solution
+de  | oplossingsrichting  | solution direction
+de  | opmerking           | comment, note
+de  | oproep              | call
+het | opstarten           | boot up
+het | opwarmen            | warming up
+de  | overdracht          | transmission (database overdracht)
+het | overzicht           | overview
+de  | pagina              | page
+de  | partij              | party
+het | proces              | process
+het | profiel             | profile
+het | rapport             | report
+het | recht               | right
+de  | reden               | reason
+de  | referentie          | reference
+de  | rekening            | bill
+het | resultaat           | result
+het | risico              | risk
+de  | rol                 | role
+de  | scheiding           | separation
+het | scherm              | screen / display
+het | soort               | sort, kind
+de  | tabel               | table (tablo gibi)
+de  | taak                | task
+de  | toelichting         | explanation
+het | totaal              | total
+de  | tegel               | tile (computer: widget)
+de  | toekomst            | future
+de  | uitdaging           | challenge
+de  | uitgang             | exit
+de  | uitleg              | explanation
+de  | uitnodiging         | invitation
+het | vaccin              | vaccine
+de  | verbinding          | connection
+de  | vergadering         | meeting
+het | verkeer             | traffic
+de  | verrassing          | surprise
+het | verschil            | difference
+de  | versie              | version
+de  | versnelling         | gear / acceleration
+de  | volgorde            | sequence / order (volgen orde)
+het | voorbeeld           | example
+de  | voorbereiding       | preparation
+het | voorstel            | proposal
+de  | waarde              | value
+de  | weergave            | display?
+de  | werkzaamheid        | efficacy (tesir, yararlılık, faydalik)
+de  | wijziging           | the change
+de  | zaak                | case, affair, matter 
 
 
 [Go back to TOC](#toc)
