@@ -26,7 +26,7 @@ I'll update this repository as I progress so please check this repository period
 **TIP**: Please note that it would be better to study this repository in addition with my other dutch language related repositories;
 
 - Dutch Vocabulary repository: [dutch-vocabulary](https://github.com/bzdgn/dutch-vocabulary/blob/master/README.md#toc)
-- Dutch Grammar repository: [dutch-grammar-for-english-learners](https://github.com/bzdgn/dutch-grammar-for-english-learners#toc)
+- Dutch Grammar repository: [dutch-grammar-for-english-speakers](https://github.com/bzdgn/dutch-grammar-for-english-speakers#toc)
 
 
 [Go back to TOC](#toc)
