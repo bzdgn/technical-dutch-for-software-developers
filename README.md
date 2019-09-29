@@ -12,8 +12,8 @@ TOC
 - [2 Nouns](#2-nouns)<br/>
 - [3 Verbs](#3-verbs)<br/>
 - [4 Example Phrases For Adjectives and Adverbs](#4-example-phrases-for-adjectives-and-adverbs)<br/>
-- [5 Example Phrases For Nouns](#5-example-phrases-for-adjectives-and-nouns)<br/>
-- [6 Example Phrases For Verbs](#6-example-phrases-for-adjectives-and-verbs)<br/>
+- [5 Example Phrases For Nouns](#5-example-phrases-for-nouns)<br/>
+- [6 Example Phrases For Verbs](#6-example-phrases-for-verbs)<br/>
 
 
 0 Introduction
