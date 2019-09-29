@@ -11,7 +11,9 @@ TOC
 - [1 Adjectives And Adverbs](#1-adjectives-and-adverbs)<br/>
 - [2 Nouns](#2-nouns)<br/>
 - [3 Verbs](#3-verbs)<br/>
-- [4 Example Phrases](#4-example-phrases)<br/>
+- [4 Example Phrases For Adjectives and Adverbs](#4-example-phrases-for-adjectives-and-adverbs)<br/>
+- [5 Example Phrases For Nouns](#5-example-phrases-for-adjectives-and-nouns)<br/>
+- [6 Example Phrases For Verbs](#6-example-phrases-for-adjectives-and-verbs)<br/>
 
 
 0 Introduction
@@ -389,11 +391,42 @@ zorgen              | heb gezorgd             | zorgde              | zorgden   
 [Go back to TOC](#toc)
 
 
-4 Example Phrases
------------------
+4 Example Phrases For Adjectives and Adverbs
+--------------------------------------------
 
-Placeholder Placeholder<br/>
-Placeholder Placeholder<br/>
+| word | example usage | meaning in english |
+| --- | --- | --- |
+| placeholder | placeholder | placeholder |
+| placeholder | placeholder | placeholder |
+| placeholder | placeholder | placeholder |
+
+[Go back to TOC](#toc)
+
+
+5 Example Phrases For Nouns
+---------------------------
+
+| word | example usage | meaning in english |
+| --- | --- | --- |
+| placeholder | placeholder | placeholder |
+| placeholder | placeholder | placeholder |
+| placeholder | placeholder | placeholder |
 
 
 [Go back to TOC](#toc)
+
+
+6 Example Phrases For Verbs
+---------------------------
+
+| word | example usage | meaning in english |
+| --- | --- | --- |
+| placeholder | placeholder | placeholder |
+| placeholder | placeholder | placeholder |
+| placeholder | placeholder | placeholder |
+
+
+[Go back to TOC](#toc)
+
+
+
