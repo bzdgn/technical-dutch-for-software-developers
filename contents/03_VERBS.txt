@@ -1,0 +1,139 @@
+Verbs
+=====
+
+aangeven            heb aangegeven		    gaf aan		        gaven aan				indicate
+aanpassen		    heb aangepast		    paste aan		    pasten aan				adjust
+aanraken		    heb aangeraakt		    raakte aan		    raakten aan			    touch
+aanzetten		    heb aangezet			zette aan		    zetten aan				turn on		switch on
+accepteren		    heb geaccepteerd		accepteerde		    accepteerden			accept
+afleveren		    heb afgeleverd		    leverde af		    leverden af				deliver
+aflopen			    heb afgelopen			liep af		        liepen af				expire		end
+afmaken			    heb afgemaakt		    maakte af		    maakten af				finish		terminate
+bedoelen		    heb bedoeld			    bedoelde		    bedoelden				mean
+beïnvloeden		    heb beïnvloed			beïnvloedde		    beïnvloedden			influence
+bekijken		    heb bekeken			    bekeek		        bekeken					view
+benaderen		    heb benaderd			benaderde		    benaderden		    	approach
+bepalen			    heb bepaald			    bepaalde		    bepaalden				decide		determine
+bereiden		    heb bereid			    bereidde		    bereidden				prepare
+berekenen		    heb berekend			berekende		    berekenden				calculate
+bestaan			    heb bestaan			    bestond		        bestonden				exist
+betreffen		    heb betroffen			betrof		        betroffen				concern
+bevatten		    heb bevat			    bevatte		        bevatten				contain
+bieden			    heb geboden			    bood		        boden					offer
+bouwen			    heb gebouwd			    bouwde		        bouwden					build
+condoleren		    heb gecondoleerd		condoleerde		    condoleerden			condole
+configureren	    heb geconfigureerd		configureerde	    configureerden		    configure
+definiëren		    heb gedefinieerd		definieerde		    definieerden			define
+deelnemen		    heb deelgenomen		    nam deel		    namen deel				participate
+delen			    heb gedeeld			    deelde		        deelden					share
+denken			    heb gedacht			    dacht		        dachten					think
+detecteren		    heb gedetecteerd		detecteerde		    detecteerden			detect
+dienen			    heb gediend			    diende		        dienden					serve, ought to, expected to
+doorlopen		    heb doorlopen/doorgelopen  doorliep		    liep door				go through		keep going
+doorsturen		    heb doorgestuurd		stuurde door	    stuurden door			forward, send onwards
+downloaden		    heb gedownload		    downloadde		    downloadden			    download
+draaien			    heb gedraaid			draaide		        draaiden				turn, spin (to play CD), run
+exporteren		    heb geëxporteerd		exporteerde		    exporteerden			export
+gebeuren		    heb gebeurd			    gebeurde		    gebeurden				happen
+gebruiken		    heb gebruikt			gebruikte		    gebruikten				use
+gooien			    heb gegooid			    gooide		        gooiden					throw
+hopen			    heb gehoopt			    hoopte		        hoopten					hope
+hosten			    heb gehost			    hostte		        hostten					host
+implementeren	    heb geïmplementeerd	    implementeerde	    implementeerden	        implement
+inladen			    heb ingeladen			laadde in		    laadden in				load in		ship
+inloggen		    heb ingelogd			logde in		    logden in				log in
+instellen		    heb ingesteld			stelde in		    stelden in				to set (up), to configure
+invullen		    heb ingevuld			vulde in		    vulden in				fill in
+kennen			    heb gekend			    kende		        kenden					know (a person, a thing)
+kiezen			    heb gekozen			    koos		        kozen					choose
+knallen			    heb geknald			    knalde		        knalden					pop, bang, fire up
+krijgen			    heb gekregen			kreeg		        kregen					get
+laden			    heb geladen			    laadde		        laadden					load
+lijken			    heb geleken			    leek		        leken					seems like
+lukken			    heb gelukt			    lukte		        lukten					to succeed, to work, to go right
+maken			    heb gemaakt			    maakte		        maakten					make
+neerzetten		    heb neergezet			zette neer		    zetten neer				to set down, to put down, deposit
+nemen			    heb genomen			    nam		            namen					take
+omgaan			    ben omgegaan		    ging om		        gingen om				handle, cope, deal
+omvallen		    heb omgevallen		    viel om		        vielen om				fall over, topple
+omzetten		    heb omgezet			    zette om		    zetten om				convert, to turn, to flip
+ontdekken		    heb ontdekt			    ontdekte		    ontdekten				discover
+onderzoeken		    heb onderzocht		    onderzocht		    onderzochten			investigate
+ontbreken		    heb ontbroken			ontbrak		        ontbraken				missing
+ontstaan		    ben ontstaan			ontstond		    ontstonden				arise, to come into being
+ontvangen		    heb ontvangen		    ontving		        ontvingen				receive
+ontwikkelen		    heb ontwikkeld		    ontwikkelde		    ontwikkelden			develop
+opbouwen		    heb opgebouwd		    bouwde op		    bouwden op			    build up
+opdelen			    heb opgedeeld		    deelde op		    deelden op				divvy up, subdivide, divide
+ophalen			    heb opgehaald		    haalde op		    haalden op				pick up
+oplossen		    heb opgelost			loste op		    losten op				solve, resolve
+opmerken		    heb opgemerkt		    merkte op		    merkten op				notice, remark
+oproepen		    heb opgeroepen		    riep op		        riepen op				call, invoke, appeal
+opslaan			    heb opgeslagen		    sloeg op		    sloegen op				save		store
+opsplitsen		    heb opgesplitst		    splitste op		    splitsen op				split up
+opstarten		    heb opgestart			startte op		    startten op				start up (comp: to boot, to launch)
+opzetten		    heb opgezet			    zette op		    zetten op				set up		to place
+overeenkomen	    ben overeengekomen	    kwam overeen	    kwamen overeen		    agree
+overleggen		    heb overlegd			overlegde		    overlegden				discuss		to talk over		consult
+overzetten		    heb overgezet			zette over		    zetten over				ferry, transfer
+pakken			    heb gepakt			    pakte		        pakten					grab		fetch		take
+plaatsen		    heb geplaatst			plaatste		    plaatsten				place
+plaatsvinden	    heb plaatsgevonden	    vond plaats		    vonden plaats			to take place, occur
+presenteren		    heb gepresenteerd		presenteerde	    presenteerden		    present
+rapporteren		    heb gerapporteerd		rapporteerde	    rapporteerden			report
+roepen			    heb geroepen			riep		        riepen					called (call), shout
+realiseren		    heb gerealiseerd		realiseerde		    realiseerden			realize
+refereren		    heb gerefereerd		    refereerde		    refereerden				refer
+rennen			    heb gerend			    rende		        renden					run
+resulteren		    heb geresulteerd		resulteerde		    resulteerden			result
+selecteren		    heb geselecteerd		selecteerde		    selecteerden			select
+smaken			    heb gesmaakt			smaakte		        smaakten				taste
+spelen			    heb gespeeld			speelde	    	    speelden				play
+splitsen		    heb gesplitst			splitste		    splitsten				split
+spreken			    heb gesproken		    sprak		        spraken					speak
+staan			    heb gestaan			    stond		        stonden					stand
+starten			    heb gestart			    startte		        startten				start
+toevoegen		    heb toegevoegd		    voegde toe		    voegden toe	    		add
+tonen			    heb getoond			    toonde		        toonden					show
+trekken			    heb getrokken			trok		        trokken					pull		draw
+uitbreiden		    heb uitgebreid			breidde uit		    breiden uit				expand		extend
+uitladen		    heb uitgeladen		    laadde uit		    laadden uit				unload
+uitvoeren		    heb uitgevoerd		    voerde uit		    voerden uit				execute
+uitzetten		    heb uitgezet			zette uit		    zetten uit				turn off		switch off
+uitzoeken		    heb uitgezocht		    zocht uit		    zochten uit				investigate (see: onderzoeken)
+vallen			    heb gevallen			viel		        vielen					fall
+veranderen		    heb veranderd			veranderde		    veranderden	    		change
+verbinden		    heb verbonden		    verbond		        verbonden				connect
+vergelijken		    heb vergeleken		    vergeleek		    vergeleken				compare
+verdenken		    heb verdacht			verdacht		    verdachten				suspect
+verduidelijken	    heb verduidelijkt		verduidelijkte	    verduidelijkten	    	clarify
+verdwijnen		    ben verdwenen		    verdween		    verdwenen				disappear
+vergeten		    heb vergeten			vergat		        vergaten				forget
+verhelderen		    heb verhelderd		    verhelderde		    verhelderden			clarify (2), illuminate
+vermenigvuldigen	heb vermenigvuldigd	    vermenigvuldigde	vermenigvuldigden	    multiply		reproduce
+verschijnen		    ben verschenen		    verscheen		    verschenen				appear
+versturen			heb verstuurd			verstuurde		    verstuurden				send
+vervangen		    heb vervangen		    verving		        vervingen				replace, substitute
+verversen			heb ververst			ververste		    verversten				refresh
+verwerken		    heb verwerkt			verwerkte		    verwerkten				process
+verwijderen		    heb verwijderd			verwijderde		    verwijderden			remove		delete
+verzoeken		    heb verzocht			verzocht		    verzochten				request
+vinden			    heb gevonden			vond		        vonden					find
+volgen			    heb gevolgd			    volgde		        volgden					follow
+voltooien			heb voltooid			voltooide		    voltooiden				complete
+voorbereiden		heb voorgebereid		bereidde voor	    bereidden voor		    prepare
+voorkomen		    ben voorgekomen		    kwam voor		    kwamen voor			    to occur, to exist, to happen
+voorstellen		    heb voorgesteld		    stelde voor		    stelden voor			propose, represent, present, suggest
+voorzien			heb voorzien			voorzag		        voorzagen				provide
+vragen			    heb gevraagd			vroeg		        vroegen					ask
+vullen			    heb gevuld			    vulde		        vulden					fill
+weergeven		    heb weergegeven		    gaf weer		    gaven weer				to display, to render/interpret, give back
+wegschrijven		heb weggeschreven	    schreef weg		    ??? weg				    to write data to long-term storage (e.g. hard disk)
+weten			    heb geweten			    wist		        wisten					know, remember, be able to (see wiktionary)
+wijzigen			heb gewijzigd			wijzigde	        wijzigden				modify, edit
+worden			    ben geworden			werd		        werden					become
+zetten			    heb gezet			    zette		        zetten					put		set		place
+zien				heb gezien			    zag		            zagen					see
+zoeken			    heb gezocht			    zocht		        zochten					search
+zorgen			    heb gezorgd			    zorgde		        zorgden					care
+
